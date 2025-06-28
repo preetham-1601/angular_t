@@ -8,5 +8,9 @@ import { RouterOutlet } from '@angular/router';
   styleUrl: './app.css'
 })
 export class App {
-  protected title = 'my-first-angular-project';
+  protected title = 'Preethams app';
+
+  firstname = 'Bunny';
+  lastname = 'Boy';
+
 }
